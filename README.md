@@ -52,3 +52,11 @@ For this project, **you will be able to choose your partner** or **you may choos
 Keep in mind, you are still responsible for your individual assignments. If an individual Unit 7 assignment is past-due, project work must be halted until late assignments are turned in. 
 
 Do you accept this challenge?
+
+## Bonus Content
+
+So, you've carefully designed a schema for your database, you've build a CRUD-capable Express API and a simple UI for interacting with it, and now you're looking for more?
+
+Consider these ways of extending your project
+* Look into [Socket.io](https://socket.io/) and build out a chat feature for your application.
+* Add secure Auth using [bcrypt](https://www.npmjs.com/package/bcrypt) and [jwt](https://jwt.io/)
