@@ -45,6 +45,19 @@ So, it is perfectly acceptable (and even encouraged) to build a clone of an exis
 - Nutrition Tracker (Users, FoodItems)
 - Simple Video Game (Users, Scores)
 
+## Deliverables
+
+1. Project Idea
+2. ERD
+3. GitHub repo with committed Knex migration and seed files
+4. GitHub repo with committed CRUD-capable model
+5. GitHub repo with committed Express server that responds 'Hello World' to 'GET /' requests
+6. GitHub repo with committed controllers as route handlers to interact with the model for GET, POST, PATCH, and DELETE requests
+7. Wireframe (hand drawn is fine) of essential front end components along with descriptions of components that trigger fetch requests (include the url, request method type, and any related body data)
+8. GitHub repo with committed HTML/JS including elements that trigger fetch requests
+9. GitHub repo with committed CSS styling
+10. Project demo with presentation
+
 ## Partners
 
 For this project, **you will be able to choose your partner** or **you may choose to do this project alone**. Let your instructor know once you have found a partner to receive your first assignment which you may begin working on immediately. 
