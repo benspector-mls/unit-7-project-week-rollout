@@ -47,7 +47,7 @@ So, it is perfectly acceptable (and even encouraged) to build a clone of an exis
 
 ## Partners
 
-For this project, **you will be able to choose your partner**, however you must work in pairs. Let your instructor know once you have found a partner to receive your first assignment which you may begin working on immediately. 
+For this project, **you will be able to choose your partner** or **you may choose to do this project alone**. Let your instructor know once you have found a partner to receive your first assignment which you may begin working on immediately. 
 
 Keep in mind, you are still responsible for your individual assignments. If an individual Unit 7 assignment is past-due, project work must be halted until late assignments are turned in. 
 
