@@ -55,6 +55,14 @@ The following projects are a bit more challenging because they have _two_ types 
 - Uber (Riders, Rides, Drivers)
 - Healthcare App (Patients, Appointments, Doctors)
 
+## Example ERD
+
+Your project is expected to have Users and a primary resource that each user "has" (photos, posts, recipes, etc). Group projects should also have a secondary resource that forms a many-to-many relationship between users and their primary resource. 
+
+The ERD below illustrates these relationships in a Twitter clone application.
+
+![](docs/img/erd-example.png)
+
 ## Deliverables
 
 | Due Date | Deliverable |
