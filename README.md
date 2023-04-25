@@ -9,7 +9,7 @@ The main purpose of this project is to practice building a CRUD Express app (Pos
 **If you are working in a pair**, your app's Minimum Viable Product (MVP) is expected to have:
 
 - At least 3 tables in your app's database
-- At least 1 many-to-many relationship in your app. 
+- At least 1 many-to-many relationship in your app.
 
 **If you working alone**, your app's Minimum Viable Product (MVP) is expected to have
 
@@ -20,6 +20,9 @@ The main purpose of this project is to practice building a CRUD Express app (Pos
 - An Entity-Relationship Diagram (ERD) accurately illustrating your final app's data architecture (schema)
 First Draft during planning, Final Draft for presentation
 - A wireframe (hand-drawn is fine) illustrating the key interactable components in your UI (anything that triggers a fetch) 
+- A model with full CRUD capability
+- An express API
+- A front end to interact with the API
 - A demo + presentation slides to showcase your project
 
 ## Project Ideas
