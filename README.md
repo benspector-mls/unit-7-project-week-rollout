@@ -63,15 +63,15 @@ The following projects are a bit more challenging because they have _two_ types 
 
 ## Deliverables
 
-| Due Date | Deliverable |
+| Due Date (EOD) | Deliverable |
 | - | -
-| Day 1 | Project Idea + ERD |
-| Day 2 | GitHub repo with committed Knex migration and seed files |
-| Day 2 | GitHub repo with committed CRUD-capable model |
-| Day 3 | GitHub repo with committed Express server that responds 'Hello World' to 'GET /' requests |
-| Day 4 | GitHub repo with committed controllers as route handlers to interact with the model for GET, POST, PATCH, and DELETE requests
-| Day 4 | Wireframe (hand drawn is fine) of essential front end components along with descriptions of components that trigger fetch requests (include the url, request method type,related body data)
-| Day 5 | GitHub repo with committed Auth Handling |
-| Day 6 | Githbu repo with committed HTML/JS including elements that trigger fetch requests |
-| Day 7 | GitHub repo with committed CSS styling |
-| Day 8 | Project demo with presentation |
+| Day 1 (Thursday) | Project Idea |
+| Day 2 (Friday) | ERD |
+| Day 3 (Monday) | GitHub repo with committed Knex migration and seed files |
+| Day 4 (Monday) | GitHub repo with committed Create and Read-capable `User` model and full Express API (routes + controllers) for interacting with the model |
+| Day 4 (Tuesday) | Github repo with committed Auth registration and login w/ front-end form |
+| Day 5 (Wednesday) | GitHub repo with committed fully-CRUD model for a primary resource with full Express API (routes + controllers) for interacting with the model |
+| Day 5 (Wednesday) | Wireframe (hand drawn is fine) of essential front end components along with descriptions of components that trigger fetch requests (include the url, request method type,related body data)
+| Day 6 (Thursday) | Github repo with committed HTML/JS including elements that trigger fetch requests |
+| Day 7 (Friday) | GitHub repo with committed CSS styling |
+| Day 8 (Monday) | Project demo with presentation |
