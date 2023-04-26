@@ -63,15 +63,13 @@ The following projects are a bit more challenging because they have _two_ types 
 
 ## Deliverables
 
-| Due Date (EOD) | Deliverable |
+| Due Date <br> (End of Day) | Deliverable |
 | - | -
-| Day 1 (Thursday) | Project Idea |
-| Day 2 (Friday) | ERD |
-| Day 3 (Monday) | GitHub repo with committed Knex migration and seed files |
-| Day 4 (Monday) | GitHub repo with committed Create and Read-capable `User` model and full Express API (routes + controllers) for interacting with the model |
-| Day 4 (Tuesday) | Github repo with committed Auth registration and login w/ front-end form |
-| Day 5 (Wednesday) | GitHub repo with committed fully-CRUD model for a primary resource with full Express API (routes + controllers) for interacting with the model |
-| Day 5 (Wednesday) | Wireframe (hand drawn is fine) of essential front end components along with descriptions of components that trigger fetch requests (include the url, request method type,related body data)
-| Day 6 (Thursday) | Github repo with committed HTML/JS including elements that trigger fetch requests |
+| Day 1 (Thursday) | Project Idea with 3 suggested tables|
+| Day 2 (Friday) | ERD & Wireframe (hand drawn for both is fine). <br> - ERD should accurately represent relationships between tables. <br> - Wireframe should show only essential UI components that trigger fetch requests (include the url endpoint, request method type, related body data) |
+| Day 3 (Monday) | GitHub repo with commits for Knex migration and seed files + Create and Read-capable `User` model |
+| Day 4 (Tuesday) | GitHub repo with commits for Express API (routes / controllers) for interacting with the model + Auth registration and login w/ front-end form |
+| Day 5 (Wednesday) | Github repo with commits for full CRUD features for primary resources (Users can create/read/update/delete a tweet, post, blog, etc.). <br> - Solo projects should have create/read capabilities for primary resource. |
+| Day 6 (Thursday) |  MVP is reached - Github repo with commits for creating a secondary resource (like, comment, etc.) <br> - Solo projects should have full CRUD capabilities for primary resource. |
 | Day 7 (Friday) | GitHub repo with committed CSS styling |
-| Day 8 (Monday) | Project demo with presentation |
+| Day 8 (Monday) | Project demo with presentation & final ERD|
