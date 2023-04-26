@@ -4,25 +4,31 @@
 
 The main purpose of this project is to practice building a CRUD Express app (PostgreSQL database, Node.js + Express.js Server, Knex.js) with a front-end for interacting with the app.
 
+![](./docs/img/full-stack-diagram.svg)
+
 ## Requirements
+
+
 
 **If you are working in a pair**, your app's Minimum Viable Product (MVP) is expected to have:
 
-- At least 3 tables in your app's database
-- At least 1 many-to-many relationship in your app.
+- A **Users** table
+- A **primary resource** table (e.g. photo posts, blog/forum posts, video posts, etc...) forming a **one-to-many** relationship.
+- A **secondary resource** table (e.g. likes, comments, bookmarks) forming a **many-to-many relationship**.
 
 **If you working alone**, your app's Minimum Viable Product (MVP) is expected to have
 
-- At least 2 tables in your app's database
-- At least 1 one-to-many or many-to-many relationship in your relationship.
+- A **Users** table
+- A **primary resource** table (e.g. photo posts, blog/forum posts, video posts, etc...) forming a **one-to-many** relationship.
+
+![](docs/img/erd-example.png)
 
 **Every group must have:**
 - An Entity-Relationship Diagram (ERD) accurately illustrating your final app's data architecture (schema)
-First Draft during planning, Final Draft for presentation
 - A wireframe (hand-drawn is fine) illustrating the key interactable components in your UI (anything that triggers a fetch) 
-- A model with full CRUD capability
+- At least one model with full CRUD capability
 - An express API
-- A front end to interact with the API
+- A simple front end to interact with the API
 - A demo + presentation slides to showcase your project
 
 ## Project Ideas
@@ -37,7 +43,7 @@ So, it is perfectly acceptable (and even encouraged) to build a clone of an exis
 - Twitter (Users, Tweets, Likes)
 - Uber (Riders, Rides, Drivers)
 - Blogging App (Users, Blogs, Comments)
-- Healthcare App (Patients, Appointments, Doctors)
+- Healthcare App (Patients, Appointments, HealthProfessionals)
 - Social Network (Users, Connections) 
 
 #### Solo Project Ideas
@@ -54,14 +60,6 @@ The following projects are a bit more challenging because they have _two_ types 
 
 - Uber (Riders, Rides, Drivers)
 - Healthcare App (Patients, Appointments, Doctors)
-
-## Example ERD
-
-Your project is expected to have Users and a primary resource that each user "has" (photos, posts, recipes, etc). Group projects should also have a secondary resource that forms a many-to-many relationship between users and their primary resource. 
-
-The ERD below illustrates these relationships in a Twitter clone application.
-
-![](docs/img/erd-example.png)
 
 ## Deliverables
 
