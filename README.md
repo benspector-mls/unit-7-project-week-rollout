@@ -21,7 +21,7 @@ The main purpose of this project is to practice building a CRUD Express app (Pos
 - A **Users** table
 - A **primary resource** table (e.g. photo posts, blog/forum posts, video posts, etc...) forming a **one-to-many** relationship.
 
-![](docs/img/erd-example.png)
+![](docs/img/erd-example.svg)
 
 **Every group must have:**
 - An Entity-Relationship Diagram (ERD) accurately illustrating your final app's data architecture (schema)
